@@ -1,0 +1,75 @@
+Servidor en puerto:  3000
+[Base de datos] ahora conectada
+[0mPOST /api/register/login [32m200 [0m292.840 ms - 447[0m
+[0mPOST /api/register/dashboard [32m200 [0m2.458 ms - 218[0m
+[0mPOST /api/register/init [32m200 [0m305.386 ms - 62[0m
+[0mPOST /api/register/registervoter [32m201 [0m16.145 ms - 54[0m
+[0mPOST /api/register/dashboard [32m200 [0m0.827 ms - 218[0m
+[0mPOST /api/register/voterpanel [32m200 [0m5.566 ms - 337[0m
+[0mPOST /api/register/voterpanel [32m200 [0m13.559 ms - 337[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m3.216 ms - 2[0m
+[0mGET /api/voters/fingercharacteristics [32m200 [0m7.644 ms - 3641[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m1.256 ms - 2[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m0.693 ms - 2[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m3.012 ms - 2[0m
+[0mPOST /api/fingerprint/enroll [32m200 [0m6620.937 ms - 1860[0m
+[0mPUT /api/register/voterfingerprint [32m200 [0m6650.971 ms - 50[0m
+[0mPOST /api/register/dashboard [32m200 [0m0.667 ms - 218[0m
+[0mPUT /api/register/closeregistration [32m200 [0m106.961 ms - 77[0m
+[Respuesta de error] El periodo de votación ya terminó
+[0mPOST /api/voters/ci [33m403 [0m2.364 ms - 57[0m
+Servidor en puerto:  3000
+[Base de datos] ahora conectada
+[Respuesta de error] El periodo de empadronamiento ya terminó
+[0mPOST /api/register/registervoter [33m403 [0m40.893 ms - 63[0m
+[Respuesta de error] El periodo de empadronamiento ya terminó
+[0mPOST /api/register/registervoter [33m403 [0m8.082 ms - 63[0m
+[0mPOST /api/register/dashboard [32m200 [0m1.070 ms - 218[0m
+[0mPUT /api/register/openvotingperiod [32m200 [0m353.925 ms - 66[0m
+[0mPOST /api/voters/ci [32m200 [0m12.132 ms - 3002[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m14.456 ms - 2150[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m10.989 ms - 2150[0m
+[0mPOST /api/voters/faceverification [32m200 [0m4144.425 ms - 52[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m14.368 ms - 2149[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m13.784 ms - 2149[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m3.327 ms - 2[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m1.086 ms - 2[0m
+[0mPOST /api/fingerprint/search [32m200 [0m3086.550 ms - 48[0m
+[0mPOST /api/voters/fingerverification [32m200 [0m3097.623 ms - 52[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m6.742 ms - 2148[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m14.181 ms - 2148[0m
+[0mPOST /api/voters/voteemition [32m200 [0m42.065 ms - 48[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m7.256 ms - 2147[0m
+[Respuesta de error] TokenExpiredError: jwt expired
+[0mPOST /api/register/dashboard [33m403 [0m0.797 ms - 41[0m
+[0mPOST /api/voters/ci [32m200 [0m5.780 ms - 3035[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m10.216 ms - 2175[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m7.495 ms - 2175[0m
+[0mPOST /api/voters/faceverification [32m200 [0m3335.714 ms - 52[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m8.698 ms - 2174[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m16.227 ms - 2174[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m1.055 ms - 2[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m0.790 ms - 2[0m
+[0mPOST /api/fingerprint/search [32m200 [0m3167.324 ms - 48[0m
+[0mPOST /api/voters/fingerverification [32m200 [0m3176.291 ms - 52[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m6.535 ms - 2173[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m22.914 ms - 2173[0m
+[0mPOST /api/voters/voteemition [32m200 [0m40.169 ms - 48[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m9.168 ms - 2172[0m
+[0mPOST /api/voters/ci [32m200 [0m6.331 ms - 3021[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m9.269 ms - 2164[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m7.815 ms - 2164[0m
+[0mPOST /api/voters/faceverification [32m200 [0m3380.923 ms - 52[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m7.117 ms - 2163[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m10.061 ms - 2163[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m1.277 ms - 2[0m
+[0mPOST /api/fingerprint/printinstructions [32m200 [0m1.216 ms - 2[0m
+[0mPOST /api/fingerprint/search [32m200 [0m3453.693 ms - 48[0m
+[0mPOST /api/voters/fingerverification [32m200 [0m3462.303 ms - 52[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m9.537 ms - 2162[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m7.618 ms - 2162[0m
+[0mPOST /api/voters/voteemition [32m200 [0m39.336 ms - 48[0m
+[0mPOST /api/voters/voterpanel [32m200 [0m8.205 ms - 2161[0m
+[0mPOST /api/register/login [32m200 [0m265.506 ms - 447[0m
+[0mPOST /api/register/dashboard [32m200 [0m0.848 ms - 218[0m
+[0mPUT /api/register/closevotingperiod [32m200 [0m28.471 ms - 66[0m

@@ -1,0 +1,20 @@
+Route,Time (ms)
+/api/fingerprint/enroll,10909.511888888888
+/api/fingerprint/printinstructions,1.9918971962616823
+/api/fingerprint/search,6265.844000000002
+/api/register/closeregistration,710.67
+/api/register/closevotingperiod,12.924000000000001
+/api/register/dashboard,1.191970588235294
+/api/register/getresults,31.671
+/api/register/init,341.374
+/api/register/login,271.859
+/api/register/openvotingperiod,63.36600000000001
+/api/register/registervoter,15.7763125
+/api/register/voterfingerprint,10932.824555555555
+/api/register/voterpanel,11.458968749999999
+/api/voters/ci,7.541999999999999
+/api/voters/faceverification,3114.1911764705874
+/api/voters/fingercharacteristics,6.8052777777777775
+/api/voters/fingerverification,6275.485647058824
+/api/voters/voteemition,101.61266666666664
+/api/voters/voterpanel,7.1559224137931015

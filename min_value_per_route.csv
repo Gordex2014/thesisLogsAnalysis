@@ -1,0 +1,20 @@
+Route,Petition,Status,Time (ms)
+/api/fingerprint/enroll,POST,200,7406.411
+/api/fingerprint/printinstructions,POST,200,0.7879999999999999
+/api/fingerprint/search,POST,-,1191.392
+/api/register/closeregistration,PUT,200,710.67
+/api/register/closevotingperiod,PUT,200,0.589
+/api/register/dashboard,POST,200,0.511
+/api/register/getresults,GET,200,31.671
+/api/register/init,POST,200,341.374
+/api/register/login,POST,200,252.013
+/api/register/openvotingperiod,PUT,200,63.36600000000001
+/api/register/registervoter,POST,201,10.585999999999999
+/api/register/voterfingerprint,PUT,200,7414.093000000001
+/api/register/voterpanel,POST,200,4.4030000000000005
+/api/voters/ci,POST,200,2.984
+/api/voters/faceverification,POST,200,1566.18
+/api/voters/fingercharacteristics,GET,200,3.194
+/api/voters/fingerverification,POST,-,1200.626
+/api/voters/voteemition,POST,200,29.685
+/api/voters/voterpanel,POST,200,5.084
